@@ -1,0 +1,1 @@
+# NumPy-and-synthetic-sales-data-project
