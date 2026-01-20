@@ -83,8 +83,8 @@ Ideas to extend this notebook
 - Build a small Streamlit dashboard to explore the data interactively
 
 
-🏥 #**Hospital Analytics Project – End-to-End Data Analysis with Pandas**
-📌 #**Project Overview**
+🏥 ##****Hospital Analytics Project – End-to-End Data Analysis with Pandas**
+📌 ##**Project Overview****
 
 This project is a complete end-to-end data analysis case study built to simulate the kind of work a real data analyst performs in a healthcare environment.
 The goal was not just to write code, but to think like an analyst: clean messy data, engineer meaningful features, analyze patterns, and translate results into business-ready insights.
