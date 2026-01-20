@@ -92,7 +92,7 @@ The goal was not just to write code, but to think like an analyst: clean messy d
 
 The project was intentionally designed at beginner, intermediate, and advanced levels, covering the full data lifecycle from raw CSV to executive-level KPIs.
 
-🎯 Business Problem
+# 🎯 Business Problem
 
 Hospitals deal with:
 
@@ -114,7 +114,7 @@ How patient age, cost, and stay duration impact outcomes
 
 How to flag high-risk patients for proactive care
 
-🧰 Tools and Skills Used
+# 🧰 Tools and Skills Used
 
 Python
 
@@ -134,7 +134,7 @@ Business KPI Design
 
 Analytical Storytelling
 
-📂 Dataset
+# 📂 Dataset
 
 A realistic synthetic hospital dataset was created, containing:
 
@@ -158,8 +158,8 @@ Engineered data
 
 Final clean dataset
 
-🔍 Project Workflow
-Day 1–2: Data Understanding and Cleaning
+# 🔍 Project Workflow
+**Day 1–2: Data Understanding and Cleaning**
 
 Loaded raw hospital data
 
@@ -169,7 +169,7 @@ Fixed datatypes and invalid records
 
 Ensured data integrity before analysis
 
-Day 3: Feature Engineering
+**Day 3: Feature Engineering**
 
 Created age groups
 
@@ -181,7 +181,7 @@ Designed a readmission risk flag
 
 Saved engineered datasets safely
 
-Day 4: Exploratory Data Analysis
+**Day 4: Exploratory Data Analysis**
 
 Dataset health checks
 
@@ -193,7 +193,7 @@ Readmission overview
 
 Efficiency analysis using length of stay
 
-Day 5: Advanced Aggregations
+**Day 5: Advanced Aggregations**
 
 Pivot tables by department and age group
 
@@ -203,7 +203,7 @@ Doctor-level readmission screening
 
 Monthly patient and revenue trends
 
-Day 6: Risk Analysis
+**Day 6: Risk Analysis**
 
 Readmission rate analysis
 
@@ -211,7 +211,7 @@ Risk by department and cost category
 
 Identification of high-risk patients using business logic
 
-Day 7: Executive KPIs and Storytelling
+**Day 7: Executive KPIs and Storytelling**
 
 Hospital-level KPIs
 
@@ -223,7 +223,7 @@ Patient segmentation
 
 Business insights suitable for leadership
 
-📊 Key Insights
+**📊 Key Insights**
 
 Certain departments consistently show higher cost and longer stays
 
@@ -233,7 +233,7 @@ A small segment of patients drives a large portion of financial risk
 
 Feature engineering enables early identification of high-risk patients
 
-🧠 What This Project Demonstrates
+**🧠 What This Project Demonstrates**
 
 Ability to work end-to-end, not just isolated analysis
 
@@ -243,18 +243,10 @@ Clean, structured, and reproducible workflows
 
 Skills directly aligned with junior to mid-level data analyst roles
 
-🚀 Next Steps
-
-Visualization using Power BI or Tableau
-
-Predictive modeling for readmission risk
-
-Dashboard creation for executives
-
 👤 Author
 
 Created by muqadas
 Aspiring Data Analyst | Python | Pandas | Analytics
 
-
-— Muqadas-Arif
+**
+— Muqadas-Arif**
